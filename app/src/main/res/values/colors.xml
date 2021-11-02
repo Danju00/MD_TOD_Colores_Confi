@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#616161</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white_t">#88ffffff</color>
+
+    <!--<&#45;&#45;Material Theme color&ndash;&gt;-->
+    <color name="color_primary">#ef6091</color>
+    <color name="color_primary_variant">#b92a64</color>
+    <color name="color_secondary">#616161</color>
+    <color name="color_secondary_variant">#373737</color>
+
+    <color name="color_on_primary">#000000</color>
+    <color name="color_on_secundary">#ffffff</color>
+
+</resources>
